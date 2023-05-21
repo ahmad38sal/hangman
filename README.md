@@ -15,4 +15,29 @@ Make sure you have Python installed on your system. This game was developed usin
 ### Running the Game
 
 1. Clone the repository:
+git clone https://github.com/ahmad38sal/hangman.git
+
+
+2. Navigate to the project directory:
+
+python hangman.py
+
+
+## Gameplay Instructions
+
+1. The game will start by displaying a row of underscores representing each letter in the hidden word.
+
+2. Enter a letter as your guess.
+
+3. If the letter is correct, it will be revealed in the appropriate position(s) in the hidden word.
+
+4. If the letter is incorrect, you will lose one attempt.
+
+5. Continue guessing letters until you uncover the complete word or run out of attempts.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to enhance the game, feel free to submit a pull request.
+
+
 
